@@ -1,12 +1,4 @@
-# Hi, I'm Xiaorou He 👋
 
-I build things and then try to make them hold up under scrutiny — automated tests,
-clear documentation, and CI that actually runs.
-
-Most of what I work on sits somewhere between **backend services** and **test tooling**:
-APIs, data-heavy dashboards, and the automation frameworks that keep them honest.
-
----
 
 ## 🔧 Tech I work with
 
@@ -97,6 +89,5 @@ headlessly, and it is.
 ## 📫 Get in touch
 
 - GitHub: [@xr-susan](https://github.com/xr-susan)
-- Email: [ymsusan8748@qq.com](mailto:ymsusan8748@qq.com)
 
 <sub>Currently looking for feedback on my projects — issues and PRs are welcome.</sub>
