@@ -91,12 +91,3 @@ headlessly, and it is.
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=xr-susan&show_icons=true&hide_border=true&count_private=false" alt="GitHub stats for xr-susan" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xr-susan&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
-
----
-
-## 📫 Get in touch
-
-- GitHub: [@xr-susan](https://github.com/xr-susan)
-- Email: [ymsusan8748@qq.com](mailto:ymsusan8748@qq.com)
-
-<sub>Currently looking for feedback on my projects — issues and PRs are welcome.</sub>
